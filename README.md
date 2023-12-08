@@ -1,0 +1,1 @@
+Trabalho feito com base no capítulo 47 do Deep Learning Book, que pode ser encontrado aqui: https://www.deeplearningbook.com.br/reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-parte-4/
